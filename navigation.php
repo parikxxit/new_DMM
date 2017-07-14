@@ -65,8 +65,8 @@
       <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Layouts <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="layouts/ntb1.jpg" download>Ntb Ground Floor</a></li>
-            <li><a href="layouts/ntb.jpg" download>Ntb First Floor</a></li>
+            <li><a href="/buildings/layouts/ntb1.jpg" download>Ntb Ground Floor</a></li>
+            <li><a href="/buildings/layouts/ntb2.jpg" download>Ntb First Floor</a></li>
           </ul>
         </li>
      </ul>
